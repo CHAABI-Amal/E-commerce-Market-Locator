@@ -14,11 +14,9 @@ Ce projet est une application permettant aux utilisateurs de **localiser des mar
 ## **📸 Screenshots**
 
 ### **1. Localisation de l'utilisateur**  
-![Image1](img1.png)
-
-### **2. Affichage des magasins proches**  
 ![img18](https://github.com/user-attachments/assets/48df8053-a5b4-46ed-8a97-133d4e0649e9)
 
+### **2. Affichage des magasins proches**  
 ![img19](https://github.com/user-attachments/assets/8de9140f-875a-4bf1-8f02-dbb757a96956)
 
 ---
