@@ -1,4 +1,4 @@
-![img18](https://github.com/user-attachments/assets/2eb5c10c-abca-46a2-bf3e-bee5f06afad8)# **E-commerce Market Locator**
+# **E-commerce Market Locator**
 
 Ce projet est une application permettant aux utilisateurs de **localiser des marchés et des magasins** dans une zone spécifique. L'application affiche la localisation actuelle de l'utilisateur et les différents points de vente disponibles sur une carte interactive.
 
